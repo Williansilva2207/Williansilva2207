@@ -50,4 +50,29 @@ fev de 2020 - dez de 2022
 
 <br>
 
+# 📱 Contatos
+
+Conecte-se comigo nas redes! Se precisar de ajuda ou tiver sugestões de projetos, me mande uma mensagem.
+
+<div> 
+  <a href="www.linkedin.com/in/willian-rodrigues-295575297" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  <a href="https://wa.me/+5581984116699" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+  <a href="mailto:wiliansilva.drigue@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  
+</div>
+
+<br>
+
+# 📈 Gráfico de Contribuição
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Williansilva2207&bg_color=0d1117&color=8116C4&line=8A2BE2&point=5215BB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=footer"/>
+
 
