@@ -42,6 +42,12 @@
 Universidade Católica de Pernambuco\
 jul de 2023 - atual · atual
 
+<img align="left" height="50px" width="50px" alt="ETE Pastor Isaac Martins" src="ete.png"/>
+
+**Técnico em Redes de Computadores**\
+ETE Pastor Isaac Martins Rodrigues\
+fev de 2020 - dez de 2022
+
 <br>
 
 
