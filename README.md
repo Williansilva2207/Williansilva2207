@@ -34,7 +34,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-# 👩🏽‍🎓 Formação Acadêmica
+# 👨🏼‍🎓 Formação Acadêmica
 
 <img align="left" height="50px" width="50px" alt="Unicap" src="unicap.png"/>
 
